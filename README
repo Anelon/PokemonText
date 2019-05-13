@@ -1,0 +1,22 @@
+Fix Battle function
+	DONE - do something appears to have a bug
+	get actual move priority
+	get exp that was earned by parse data
+	status moves and effects
+Trainer
+	DONE - add currentRoute Route*
+	DONE - add lastCenter Route*
+route.move(dir) move to route
+	DONE - tries to move in that direction
+	DONE - spawns a pokemon
+		random in range of encouter
+	spawns a trainer
+		baised on what pokemon are on the route
+		1-4 pokemon
+		gold baised on total level of pokemon that they have * 10?
+Towns/Cities
+	get data for gyms
+	add pokecenters
+		when healing your pokemon set last used pokecenter to here
+	add pokemart?
+		parse the item data hopefully it has what can be bought 
